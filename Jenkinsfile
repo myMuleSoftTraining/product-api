@@ -1,6 +1,5 @@
 pipeline {
  agent any
- agent any
   environment {
     //adding a comment for the commit test
     MULE_VERSION = '4.4.0'
